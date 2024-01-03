@@ -1,0 +1,8 @@
+/text1.txt
+/text2.txt
+
+# Auto generated files
+auto-gen/a.txt
+auto-gen/b.txt
+# auto-gen/* (to ignore all files)
+# auto-gen/*.txt (to ignore only the .txt files)
