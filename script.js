@@ -3,5 +3,5 @@ const b = 25;
 const c = 100;
 
 const myFunction = () => {
-    return "Hi";
+    return "Hello";
 }
