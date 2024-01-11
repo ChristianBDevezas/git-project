@@ -3,9 +3,13 @@ body {
 }
 
 h1 {
-    color: yellow;
+    color: pink;
 }
 
 p {
     color: blue;
+}
+
+span {
+    color: orange;
 }
