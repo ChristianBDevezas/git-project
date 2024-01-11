@@ -6,4 +6,6 @@ const message = () => {
     return "Hello World!";
 }
 
-const greeting = "Hi";
+const greeting = () => {
+    return "Hi";
+}
