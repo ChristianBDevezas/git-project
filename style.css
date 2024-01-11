@@ -4,12 +4,19 @@ body {
 
 h1 {
     color: orange;
+<<<<<<< HEAD
 }
 
 h2 {
     color: cornflowerblue;
+=======
+>>>>>>> 3878fcf774e87a11bf6be119d9d0ada4fd2a7a82
 }
 
 p {
     color: blue;
+}
+
+span {
+    color: red;
 }
