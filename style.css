@@ -32,6 +32,6 @@ input {
     outline: none;
 }
 
-input[type="text"] {
+input {
     margin-bottom: 10px;
 }
