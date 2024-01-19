@@ -31,3 +31,7 @@ input {
     display: block;
     outline: none;
 }
+
+input[type="text"] {
+    margin-bottom: 10px;
+}
