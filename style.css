@@ -14,17 +14,19 @@ p {
     color: blue;
 }
 
-span {
-    color: red;
-}
-
 form {
     padding: 10px;
 }
 
 legend {
     border: 1px solid black;
-    padding: 5px;
+    padding: 2px 5px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+
+label {
+    display: block;
 }
 
 input {
