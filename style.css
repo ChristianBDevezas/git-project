@@ -1,5 +1,5 @@
 body {
-    background-color: green;
+    background-color: #f1cbd2;
 }
 
 h1 {
@@ -16,4 +16,18 @@ p {
 
 span {
     color: red;
+}
+
+form {
+    padding: 10px;
+}
+
+legend {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+input {
+    display: block;
+    outline: none;
 }
